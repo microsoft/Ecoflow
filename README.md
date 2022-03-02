@@ -7,23 +7,23 @@ Community-driven collaboration on labelled data and model weights for ecological
 
 ### Labelled data
 
-terrestrial animals
-aquatic fish
+* terrestrial animals
+* aquatic fish
+* nesting birds
 
 ### Community models
 
-GBR Crown of Thorn Starfish
+* GBR Crown of Thorns (COTS) Starfish
 
 ### Reproducible papers
 
-A deep learning approach for monitoring tropical freshwater fish assemblages
+* A deep learning approach for monitoring tropical freshwater fish assemblages
 
 ### Productive pipelines
 
 The Free Tier of [Envir.ai](https://www.envir.ai/) works seamlessly with community data and models to accelerate adoption of AI for camera and audio data.
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
-
 
 # Contributing
 
