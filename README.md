@@ -5,16 +5,16 @@ Community-driven collaboration on labelled data and model weights for ecological
 
 ![Labelled data](/docs/ecoflow.png)
 
-### Labelled data
+## Labelled data
 
 
-### Community data
+## Community data
 
 
-### Reproducible papers
+## Reproducible papers
 
 
-### Productive pipelines
+## Productive pipelines
 
 The Free Tier of [Envir.ai](https://www.envir.ai/) works seamlessly with community data and models to accelerate adoption of AI for camera and audio data.
 
