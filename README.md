@@ -7,15 +7,16 @@ Community-driven collaboration on labelled data and model weights for ecological
 
 ### Labelled data
 
-CLI coming...
+terrestrial animals
+aquatic fish
 
 ### Community models
 
-CLI coming...
+GBR Crown of Thorn Starfish
 
 ### Reproducible papers
 
-Stand by...
+A deep learning approach for monitoring tropical freshwater fish assemblages
 
 ### Productive pipelines
 
