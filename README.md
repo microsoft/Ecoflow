@@ -7,12 +7,15 @@ Community-driven collaboration on labelled data and model weights for ecological
 
 ### Labelled data
 
+CLI coming...
 
-### Community data
+### Community models
 
+CLI coming...
 
 ### Reproducible papers
 
+Stand by...
 
 ### Productive pipelines
 
