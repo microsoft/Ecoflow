@@ -14,6 +14,7 @@ Community-driven collaboration on labelled data and model weights for ecological
 
 ### Community models
 
+* terrestrial animals
 * aquatic fish
 * GBR Crown of Thorns (COTS) Starfish
 
