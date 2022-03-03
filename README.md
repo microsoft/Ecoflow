@@ -9,6 +9,7 @@ Community-driven collaboration on labelled data and model weights for ecological
 
 * terrestrial animals
 * aquatic fish
+* Great Barrier Reef Crown of Thorns Starfish
 * nesting birds
 
 ### Community models
