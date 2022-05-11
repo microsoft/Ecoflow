@@ -1,7 +1,7 @@
 Ecoflow
 ==============================
 
-Community-driven collaboration on labelled data and model weights for ecological scenarios in APAC, synchronized globally via Microsoft.
+Community-driven collaboration on labelled data and model weights for agriculture and ecology in APAC, synchronized globally.
 
 ![Labelled data](/docs/ecoflow.png)
 
