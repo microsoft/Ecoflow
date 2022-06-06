@@ -6,11 +6,11 @@ Community-representation to collaborate on labelled AI data for ecological and a
 ![Labelled data](/docs/ecoflow.png)
 
 To contribute labelled AI data contact a community representative:
-* [Adam McSorley]<adam.mcsorley@environment.nsw.gov.au>, NSW National Parks and Wildlife Service
-* [Amit Prashar](amit@envir.ai), Nuj.ai
-* [Andrew Jansen](Andrew.Jansen@awe.gov.au), Department of Climate Change, Energy, the Environment and Water
-* [Celina Cacho](celina.cacho@riotinto.com), ECOTONE Flora Fauna Consultants
-* [Steve van Bodegraven](Steve.VanBodegraven@microsoft.com), Microsoft 
+* [Adam McSorley](mailto:adam.mcsorley@environment.nsw.gov.au), NSW National Parks and Wildlife Service
+* [Amit Prashar](mailto:amit@envir.ai), Nuj.ai
+* [Andrew Jansen](mailto:andrew.jansen@awe.gov.au), Department of Climate Change, Energy, the Environment and Water
+* [Celina Cacho](mailto:celina.cacho@riotinto.com), ECOTONE Flora Fauna Consultants
+* [Steve van Bodegraven](mailto:Steve.VanBodegraven@microsoft.com), Microsoft 
 
 **Fishes**
 
