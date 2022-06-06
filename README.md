@@ -2,7 +2,6 @@ Ecoflow
 ==============================
 
 Community-representation to collaborate on labelled AI data for ecological and agricultural scenarios in APAC, updated monthly.
-Community-driven collaboration on labelled data and model weights for agriculture and ecology in APAC, synchronized globally.
 
 ![Labelled data](/docs/ecoflow.png)
 
