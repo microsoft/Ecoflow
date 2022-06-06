@@ -1,28 +1,34 @@
 Ecoflow
 ==============================
 
-Community-driven collaboration on labelled data and model weights for ecological scenarios in APAC, synchronized globally via Microsoft.
+Community-representation to collaborate on labelled AI data for ecological and agricultural scenarios in APAC, updated monthly.
 
 ![Labelled data](/docs/ecoflow.png)
 
-### Labelled data
+To contribute labelled AI data contact a community representative:
+* [Adam McSorley](adam.mcsorley@environment.nsw.gov.au), NSW National Parks and Wildlife Service
+* [Amit Prashar](amit@envir.ai), Nuj.ai
+* [Andrew Jansen](Andrew.Jansen@awe.gov.au), Department of Climate Change, Energy, the Environment and Water
+* [Celina Cacho](celina.cacho@riotinto.com), ECOTONE Flora Fauna Consultants
+* [Steve van Bodegraven](Steve.VanBodegraven@microsoft.com), Microsoft 
 
-CLI coming...
+**Fish**
 
-### Community models
+Auto ML Instance Segmentation
 
-CLI coming...
+Auto ML Object Detection
 
-### Reproducible papers
+Custom Vision Object Detection
 
-Stand by...
+Nuj.ai Fast Labelling
 
-### Productive pipelines
+**Fish Semantic Segmentation**
 
-The Free Tier of [Envir.ai](https://www.envir.ai/) works seamlessly with community data and models to accelerate adoption of AI for camera and audio data.
+Azure Machine Learning
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+Azure Custom Vision
 
+Nuj.ai
 
 # Contributing
 
