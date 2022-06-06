@@ -10,9 +10,9 @@
 
     Using Anaconda Prompt
 
-```
-git clone https://github.com/microsoft/Ecoflow.git
-```
+    ```
+    git clone https://github.com/microsoft/Ecoflow.git
+    ```
 
 4. Environment Setup
 
