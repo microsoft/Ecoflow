@@ -6,10 +6,12 @@
 
 2. [Install Anaconda](https://www.anaconda.com/products/distribution)
 
-3. Clone Git Repo
+3. Clone the Ecoflow Repository
+
+Open Anaconda Prompt
 
 ```
-git clone ...
+git clone https://github.com/microsoft/Ecoflow.git
 ```
 
 4. Environment Setup
