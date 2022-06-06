@@ -8,7 +8,7 @@
 
 3. Clone the Ecoflow Repository
 
-    Open Anaconda Prompt
+    Using Anaconda Prompt
 
 ```
 git clone https://github.com/microsoft/Ecoflow.git
