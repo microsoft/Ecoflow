@@ -12,7 +12,7 @@ To contribute labelled AI data contact a community representative:
 * [Celina Cacho](celina.cacho@riotinto.com), ECOTONE Flora Fauna Consultants
 * [Steve van Bodegraven](Steve.VanBodegraven@microsoft.com), Microsoft 
 
-**Fish**
+**Fishes**
 
 Auto ML Instance Segmentation
 
@@ -21,14 +21,6 @@ Auto ML Object Detection
 Custom Vision Object Detection
 
 Nuj.ai Fast Labelling
-
-**Fish Semantic Segmentation**
-
-Azure Machine Learning
-
-Azure Custom Vision
-
-Nuj.ai
 
 # Contributing
 
