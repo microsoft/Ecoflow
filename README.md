@@ -12,7 +12,7 @@ To contribute labelled AI data contact a community representative:
 * [Celina Cacho](celina.cacho@riotinto.com), ECOTONE Flora Fauna Consultants
 * [Steve van Bodegraven](Steve.VanBodegraven@microsoft.com), Microsoft 
 
-**Fish**
+**Fishes**
 
 Auto ML Instance Segmentation
 
