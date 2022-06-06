@@ -1,7 +1,11 @@
 Ecoflow
 ==============================
 
+<<<<<<< HEAD
 Community-representation to collaborate on labelled AI data for ecological and agricultural scenarios in APAC, updated monthly.
+=======
+Community-driven collaboration on labelled data and model weights for agriculture and ecology in APAC, synchronized globally.
+>>>>>>> a288db8f9b333badd4eddcba1c24133eb3dcdf33
 
 ![Labelled data](/docs/ecoflow.png)
 
@@ -12,15 +16,32 @@ To contribute labelled AI data contact a community representative:
 * [Celina Cacho](celina.cacho@riotinto.com), ECOTONE Flora Fauna Consultants
 * [Steve van Bodegraven](Steve.VanBodegraven@microsoft.com), Microsoft 
 
+<<<<<<< HEAD
 **Fish**
+=======
+* terrestrial animals
+* aquatic fish
+* Great Barrier Reef Crown of Thorns Starfish
+* nesting birds
+>>>>>>> a288db8f9b333badd4eddcba1c24133eb3dcdf33
 
 Auto ML Instance Segmentation
 
+<<<<<<< HEAD
 Auto ML Object Detection
+=======
+* terrestrial animals
+* aquatic fish
+* GBR Crown of Thorns (COTS) Starfish
+>>>>>>> a288db8f9b333badd4eddcba1c24133eb3dcdf33
 
 Custom Vision Object Detection
 
+<<<<<<< HEAD
 Nuj.ai Fast Labelling
+=======
+* A deep learning approach for monitoring tropical freshwater fish assemblages
+>>>>>>> a288db8f9b333badd4eddcba1c24133eb3dcdf33
 
 **Fish Semantic Segmentation**
 
@@ -28,8 +49,11 @@ Azure Machine Learning
 
 Azure Custom Vision
 
+<<<<<<< HEAD
 Nuj.ai
 
+=======
+>>>>>>> a288db8f9b333badd4eddcba1c24133eb3dcdf33
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
