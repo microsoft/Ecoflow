@@ -16,7 +16,7 @@ To contribute labelled AI data contact a community representative:
 
 Auto ML Instance Segmentation
 
-Auto ML Object Detection
+[Auto ML Object Detection](https://github.com/microsoft/Ecoflow/tree/main/notebooks/fish/auto-ml-object-detection)
 
 Custom Vision Object Detection
 
