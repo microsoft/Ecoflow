@@ -22,14 +22,6 @@ Custom Vision Object Detection
 
 Nuj.ai Fast Labelling
 
-**Fish Semantic Segmentation**
-
-Azure Machine Learning
-
-Azure Custom Vision
-
-Nuj.ai
-
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
