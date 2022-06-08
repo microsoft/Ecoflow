@@ -1,8 +1,10 @@
-## Object Detection using AutoML for Images
+Contact [Andrew Jansen](mailto:andrew.jansen@awe.gov.au)
 
-| Owner | [Andrew Jansen](mailto:andrew.jansen@awe.gov.au) |
-| Description | ... |
-| Labeleing Guide | ... |
+### Description
+
+### Labeling Guide
+
+### Azure Deployment
 
 1. Deploy Azure Machine Learning
 
