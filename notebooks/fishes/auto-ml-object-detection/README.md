@@ -15,7 +15,7 @@ Contact [Andrew Jansen](mailto:andrew.jansen@awe.gov.au)
 
 2. [Install Anaconda](https://www.anaconda.com/products/distribution)
 
-3. Clone the Ecoflow Repository
+3. Clone the Ecoflow repository
 
     Using Anaconda Prompt
 
@@ -23,15 +23,10 @@ Contact [Andrew Jansen](mailto:andrew.jansen@awe.gov.au)
 git clone https://github.com/microsoft/Ecoflow.git
 ```
 
-4. Environment Setup
+4. Create and activate environment
 
 ```
 conda env create -f Ecoflow\notebooks\fishes\auto-ml-object-detection\ecoflow-auto-ml-object-detection_linux
-```
-
-5. Activate environment
-
-```
 conda activate ecoflow-auto-ml-object-detection
 ```
 
