@@ -1,10 +1,13 @@
 Contact [Andrew Jansen](mailto:andrew.jansen@awe.gov.au)
 
-### Description
+#### Description
 
-### Labeling Guide
+...
 
-### Azure Deployment
+#### Labeling Guide
+...
+
+#### Azure Deployment
 
 1. Deploy Azure Machine Learning
 
