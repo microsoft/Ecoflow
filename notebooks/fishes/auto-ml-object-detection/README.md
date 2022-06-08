@@ -32,7 +32,7 @@ conda activate ecoflow-auto-ml-object-detection
 
 7. Download Workspace Config
 
-[Download config.json from the Overview section of your workspace](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-configure-environment#workspace)
+    [Download config.json from the Overview section of your workspace](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-configure-environment#workspace)
 
 8. Run Jupyter
 
