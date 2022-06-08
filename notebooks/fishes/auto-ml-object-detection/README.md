@@ -16,18 +16,24 @@ git clone https://github.com/microsoft/Ecoflow.git
 
 4. Environment Setup
 
-Using Anaconda Prompt
-
 ```
-conda env create -f Ecoflow\notebooks\fishes\auto-ml-object-detection\conda_env_linux.yml
+conda env create -f Ecoflow\notebooks\fishes\auto-ml-object-detection\ecoflow-auto-ml-object-detection_linux
 ```
 
-5. Download Workspace Config
-
-6. Run Notebook
+5. Activate environment
 
 ```
-> (environment)auto-ml-object-detection>jupyter notebook
+conda activate ecoflow-auto-ml-object-detection
 ```
 
-? - Open default notebook
+7. Download Workspace Config
+
+[Download config.json from the Overview section of your workspace](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-configure-environment#workspace)
+
+8. Run Jupyter
+
+```
+> (ecoflow-auto-ml-object-detection)Ecoflow\notebooks\fishes\auto-ml-object-detection>jupyter notebook
+```
+
+9. Open ecoflow-auto-ml-object-detection.ipynb
