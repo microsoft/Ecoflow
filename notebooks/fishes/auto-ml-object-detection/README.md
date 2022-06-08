@@ -16,10 +16,10 @@ git clone https://github.com/microsoft/Ecoflow.git
 
 4. Environment Setup
 
-Please follow the ["Setup a new conda environment"](https://github.com/Azure/azureml-examples/tree/main/python-sdk/tutorials/automl-with-azureml#3-setup-a-new-conda-environment) instructions to get started.
+Using Anaconda Prompt
 
 ```
-conda create -n ...
+conda env create -f Ecoflow\notebooks\fishes\auto-ml-object-detection\conda_env_linux.yml
 ```
 
 5. Download Workspace Config
