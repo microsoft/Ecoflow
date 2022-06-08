@@ -40,4 +40,4 @@ conda activate ecoflow-auto-ml-object-detection
 > (ecoflow-auto-ml-object-detection)Ecoflow\notebooks\fishes\auto-ml-object-detection>jupyter notebook
 ```
 
-9. Open ecoflow-auto-ml-object-detection.ipynb
+9. Open ecoflow-fishes-auto-ml-object-detection.ipynb
