@@ -26,7 +26,7 @@ git clone https://github.com/microsoft/Ecoflow.git
 4. Create and activate environment
 
 ```
-conda env create -f Ecoflow\notebooks\fishes\auto-ml-object-detection\ecoflow-auto-ml-object-detection_linux
+conda env create -f Ecoflow\notebooks\fishes\auto-ml-object-detection\ecoflow-fishes-auto-ml-object-detection_linux.yml
 conda activate ecoflow-auto-ml-object-detection
 ```
 
