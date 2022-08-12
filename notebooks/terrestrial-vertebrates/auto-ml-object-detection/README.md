@@ -12,5 +12,6 @@ Bounding boxes were applied using the mega detector set at 90% confidence interv
 A visual curation step was applied to removed images unsutable for training such as single legs in the bottom of frames
 
 ### Attribution
+Department of Planning and Environment asserts the right to be attributed as author of the original material in the following manner: "© State Government of NSW and Department of Planning and Environment "
 
 ### Data Acquisition
