@@ -14,9 +14,9 @@ A visual curation step was applied to removed images unsutable for training such
 ### Attribution
 
 ### Data Acquisition
-Download [azcopy](https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10) and decompress
+Download [azcopy](https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10) and unzip
 
-Open a Command Prompt and change to the directry containg ```azcopy```
+Open a Command Prompt and change to the directry containg ```azcopy``` then type or paste:
 
 ```
 azcopy copy "https://ecoflow.blob.core.windows.net/public-terrestrial-vertebrates" "C:\Ecoflow\public-terrestrial-vertebrates"  --recursive
