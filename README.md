@@ -16,6 +16,8 @@ To contribute labelled AI data contact a community representative:
 
 ### Fishes
 
+Data Acquisition
+
 Auto ML Instance Segmentation
 
 [Auto ML Object Detection](https://github.com/microsoft/Ecoflow/tree/main/notebooks/fishes/auto-ml-object-detection)
@@ -23,6 +25,10 @@ Auto ML Instance Segmentation
 Custom Vision Object Detection
 
 Nuj.ai Fast Labelling
+
+### Terrestrial Verterbrates
+
+[Data Acquisition](https://github.com/microsoft/Ecoflow/tree/main/notebooks/terrestrial-vertebrates/auto-ml-object-detection)
 
 # Contributing
 
