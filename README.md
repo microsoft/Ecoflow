@@ -28,7 +28,7 @@ Nuj.ai Fast Labelling
 
 ### Terrestrial Verterbrates
 
-[Data Acquisition](https://github.com/microsoft/Ecoflow/tree/main/notebooks/terrestrial-vertebrates/auto-ml-object-detection)
+[Data Acquisition](https://github.com/microsoft/Ecoflow/tree/main/notebooks/terrestrial-vertebrates/data-acquisition)
 
 # Contributing
 
